@@ -1,0 +1,6 @@
+$nomention
+$argsCheck[>2; Use no formato t.lembrete (tempo) (massagem)]
+$title[⏰ | Lembrete]
+$description[<@$authorID> programou um Lembrete para daqui **$message[1]**, E sera lembrado de **$message[2] $message[3] $message[4] $message[5] $message[6] $message[7] $message[8] $message[9]**.]
+$footerIcon[$authorAvatar]$footer[$username] ```
+**Lembrete**
